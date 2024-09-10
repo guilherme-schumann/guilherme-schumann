@@ -18,7 +18,7 @@
 ## Stats:
 <div>
 <a href="https://github.com/guilherme-schumann">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-schumann&layout=compact&langs_count=7&theme=github-dark-blue"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-schumann&show_icons=true&theme=github-dark-blue&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-schumann&layout=compact&langs_count=7&theme=github-dark-blue#gh-dark-mode-only"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-schumann&show_icons=true&theme=github-dark-blue#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
 </div>
 
