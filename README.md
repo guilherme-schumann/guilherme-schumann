@@ -22,3 +22,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-schumann&show_icons=true&theme=github-dark-blue#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
 </div>
 
+<a href="https://wakatime.com/@ce7c57fc-220c-465f-9f9e-d11de3d62e75"><img src="https://wakatime.com/badge/user/ce7c57fc-220c-465f-9f9e-d11de3d62e75.svg" alt="Total time coded since Sep 11 2024" /></a>
